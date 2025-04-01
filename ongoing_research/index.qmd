@@ -1,0 +1,29 @@
+---
+title: Ongoing research
+---
+
+## Changing Fertility and Heterogeneous Motherhood Effects: <br> Revisiting the Effects of a Parental Benefits Reform 
+
+
+
+<a href="https://www.iza.org/publications/dp/16966/changing-fertility-and-heterogeneous-motherhood-effects-revisiting-the-effects-of-a-parental-benefits-reform" target="_blank"> Working Paper</a> 
+
+“Changing Fertility and Heterogeneous Motherhood Effects: Revisiting the Effects of a Parental Benefits Reform” (2024, with __Bernd Fitzenberger__), _IZA Discussion Paper No. 16966_ <br>
+R&R at _Journal of Labor Economics_
+
+Using a semiparametric event study approach with a control group, we estimate the effect of motherhood on labor market outcomes in Germany, the child penalty. We further investigate how the 2007 parental benefits reform changed the child penalty while accounting for fertility effects. A large novel data set linking data from two administrative sources provides information on all births. Our estimation approach accounts for motherhood being a staggered treatment. The reform has small positive medium-run effects employment outcomes. It changes the selection into fertility and shows heterogeneous effects. However, the reform did little to reduce the average child penalty.
+
+----
+
+## Longer Days, better Performance? <br> The Impact of All-day Primary Schools in Germany
+
+
+
+<a href="https://www.cesifo.org/de/publikationen/2020/working-paper/impact-all-day-schools-student-achievement-evidence-extending"> Working Paper (version 2022) </a> 
+
+“The Impact of All-Day Schools on Student Achievement – Evidence from Extending School Days in German Primary Schools” (2022, with __Larissa Zierow__), _CESifoWorking Paper Series 8618_ <br>
+minor R&R at _Economics of Education Review_
+
+This paper investigates the effects of voluntary all-day programs in German primary schools on student outcomes. To address selection bias, we use federal construction subsidies as an instrument for all-day school expansion. The program significantly increased all-day school attendance. However, second-stage results are mixed and suffer from statistical imprecision. While no significant effects are found on test scores or math grades, there are positive impacts on German grades and academic track attendance after primary school. Results indicate that all-day programs improve student satisfaction and reduce bullying; yet, we find no evidence of a reduction in educational inequality.
+
+

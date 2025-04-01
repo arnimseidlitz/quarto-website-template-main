@@ -1,0 +1,73 @@
+# This file controls the settings for your Quarto template from www.marvinschmitt.com
+
+# website settings
+website:
+  title: "Arnim Seidlitz"                                # Your name
+  description: "I am a post-doc at IAB in Nuremberg"   # A brief slogan (optional)
+  image: img/my_image.jpg
+  
+  favicon: ""
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: false
+    logo: ""
+    
+    # your sub-pages
+    left:
+      - text: "Ongoing Research"
+        href: ongoing_research/index.qmd
+      - text: "Policy Paper"
+        href: policy_papers/index.qmd
+      - text: "Published Papers"
+        href: published_papers/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+    
+    # your social media handles
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/arnim-seidlitz-846ab32a1/
+      - icon: envelope
+        aria-label: email
+        href: "mailto:arnim.seidlitz@iab.de"  
+  
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    left: |
+      
+    center: |
+         
+    right: |
+      
+
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

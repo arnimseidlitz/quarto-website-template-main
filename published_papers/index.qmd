@@ -1,0 +1,23 @@
+---
+title: Published Papers
+---
+
+## The 2011 break in the part-time indicator and the evolution of wage inequality in Germany
+
+
+
+<a href="https://labourmarketresearch.springeropen.com/articles/10.1186/s12651-019-0265-0" target="_blank"> Article</a> 
+
+“The 2011 break in the part-time indicator and the evolution of wage inequality in Germany” <br> (2020, with __Bernd Fitzenberger__), _Journal for Labour Market Research, 54:1_ 
+
+German social security records involve an indicator for part-time or full-time work. In 2011, the reporting procedure was changed suggesting that a fraction of worker recorded to be working full-time before the change were in fact part-time workers. This study develops a correction based on estimating the probability of being a part-time worker before and after the break. Using the correction, the paper confirms that the rise in wage inequality among full-time workers in West Germany until 2010 is not a spurious consequence of the misreporting of working time.
+
+## Die Lohnungleichheit von Vollzeitbeschäftigten in Deutschland: Rückblick und Überblick
+
+
+
+<a href="https://link.springer.com/article/10.1007/s11943-020-00273-w" target="_blank"> Article</a> 
+
+“Die Lohnungleichheit von Vollzeitbeschäftigten in Deutschland: Rückblick und Überblick” <br> (2020, with __Bernd Fitzenberger__), _AStA Wirtschafts- und Sozialstatistisches Archiv, 14_ 
+
+In Westdeutschland stieg zwischen 1980 und 2010 die Lohnungleichheit von Vollzeitbeschäftigten deutlich an. Der Anstieg beschränkte sich zunächst auf den oberen Bereich der Lohnverteilung und setzte sich ab Mitte der 1990er Jahre sowohl im oberen als auch im unteren Bereich der Lohnverteilung fort. Im Zeitraum 1995 bis 2010 ging die Entwicklung mit starken Reallohnverlusten im unteren Bereich der Lohnverteilung einher. Nach 2010 stiegen die Reallöhne über die gesamte Lohnverteilung deutlich an, aber die Lohnungleichheit für Vollzeitbeschäftigte verblieb auf hohem Niveau trotz eines leichten Rückgangs am untersten Ende der Verteilung ab 2015. Dieser Beitrag dokumentiert und interpretiert die Entwicklung der Lohnungleichheit und geht auf mögliche Datenprobleme ein.
